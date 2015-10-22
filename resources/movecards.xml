@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movecards>
+
+	<card>
+		<cardID>MC01</cardID>
+		<oneTo2>3</oneTo2>
+		<oneTo3>3</oneTo3>
+		<oneTo4>2</oneTo4>
+		<oneTo5>2</oneTo5>
+		<oneTo6>2</oneTo6>
+		<oneTo7>2</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC02</cardID>
+		<oneTo2>3</oneTo2>
+		<oneTo3>2</oneTo3>
+		<oneTo4>2</oneTo4>
+		<oneTo5>2</oneTo5>
+		<oneTo6>2</oneTo6>
+		<oneTo7>2</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC03</cardID>
+		<oneTo2>3</oneTo2>
+		<oneTo3>2</oneTo3>
+		<oneTo4>2</oneTo4>
+		<oneTo5>3</oneTo5>
+		<oneTo6>2</oneTo6>
+		<oneTo7>2</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC04</cardID>
+		<oneTo2>3</oneTo2>
+		<oneTo3>2</oneTo3>
+		<oneTo4>2</oneTo4>
+		<oneTo5>2</oneTo5>
+		<oneTo6>3</oneTo6>
+		<oneTo7>2</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC05</cardID>
+		<oneTo2>2</oneTo2>
+		<oneTo3>2</oneTo3>
+		<oneTo4>2</oneTo4>
+		<oneTo5>2</oneTo5>
+		<oneTo6>3</oneTo6>
+		<oneTo7>3</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC06</cardID>
+		<oneTo2>2</oneTo2>
+		<oneTo3>2</oneTo3>
+		<oneTo4>2</oneTo4>
+		<oneTo5>3</oneTo5>
+		<oneTo6>2</oneTo6>
+		<oneTo7>3</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC07</cardID>
+		<oneTo2>2</oneTo2>
+		<oneTo3>2</oneTo3>
+		<oneTo4>3</oneTo4>
+		<oneTo5>2</oneTo5>
+		<oneTo6>2</oneTo6>
+		<oneTo7>3</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC08</cardID>
+		<oneTo2>2</oneTo2>
+		<oneTo3>3</oneTo3>
+		<oneTo4>2</oneTo4>
+		<oneTo5>2</oneTo5>
+		<oneTo6>2</oneTo6>
+		<oneTo7>3</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC09</cardID>
+		<oneTo2>2</oneTo2>
+		<oneTo3>3</oneTo3>
+		<oneTo4>2</oneTo4>
+		<oneTo5>2</oneTo5>
+		<oneTo6>3</oneTo6>
+		<oneTo7>2</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC10</cardID>
+		<oneTo2>2</oneTo2>
+		<oneTo3>3</oneTo3>
+		<oneTo4>2</oneTo4>
+		<oneTo5>2</oneTo5>
+		<oneTo6>3</oneTo6>
+		<oneTo7>2</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC11</cardID>
+		<oneTo2>2</oneTo2>
+		<oneTo3>3</oneTo3>
+		<oneTo4>3</oneTo4>
+		<oneTo5>2</oneTo5>
+		<oneTo6>2</oneTo6>
+		<oneTo7>2</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC12</cardID>
+		<oneTo2>3</oneTo2>
+		<oneTo3>2</oneTo3>
+		<oneTo4>2</oneTo4>
+		<oneTo5>2</oneTo5>
+		<oneTo6>2</oneTo6>
+		<oneTo7>3</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC13</cardID>
+		<oneTo2>2</oneTo2>
+		<oneTo3>2</oneTo3>
+		<oneTo4>3</oneTo4>
+		<oneTo5>3</oneTo5>
+		<oneTo6>2</oneTo6>
+		<oneTo7>2</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC14</cardID>
+		<oneTo2>2</oneTo2>
+		<oneTo3>2</oneTo3>
+		<oneTo4>3</oneTo4>
+		<oneTo5>2</oneTo5>
+		<oneTo6>3</oneTo6>
+		<oneTo7>2</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC15</cardID>
+		<oneTo2>2</oneTo2>
+		<oneTo3>2</oneTo3>
+		<oneTo4>2</oneTo4>
+		<oneTo5>3</oneTo5>
+		<oneTo6>3</oneTo6>
+		<oneTo7>2</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC16</cardID>
+		<oneTo2>3</oneTo2>
+		<oneTo3>3</oneTo3>
+		<oneTo4>2</oneTo4>
+		<oneTo5>2</oneTo5>
+		<oneTo6>2</oneTo6>
+		<oneTo7>2</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC17</cardID>
+		<oneTo2>4</oneTo2>
+		<oneTo3>3</oneTo3>
+		<oneTo4>2</oneTo4>
+		<oneTo5>2</oneTo5>
+		<oneTo6>2</oneTo6>
+		<oneTo7>2</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC18</cardID>
+		<oneTo2>4</oneTo2>
+		<oneTo3>2</oneTo3>
+		<oneTo4>2</oneTo4>
+		<oneTo5>2</oneTo5>
+		<oneTo6>2</oneTo6>
+		<oneTo7>0</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC19</cardID>
+		<oneTo2>2</oneTo2>
+		<oneTo3>2</oneTo3>
+		<oneTo4>2</oneTo4>
+		<oneTo5>2</oneTo5>
+		<oneTo6>1</oneTo6>
+		<oneTo7>0</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC20</cardID>
+		<oneTo2>2</oneTo2>
+		<oneTo3>2</oneTo3>
+		<oneTo4>2</oneTo4>
+		<oneTo5>2</oneTo5>
+		<oneTo6>1</oneTo6>
+		<oneTo7>1</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC21</cardID>
+		<oneTo2>3</oneTo2>
+		<oneTo3>2</oneTo3>
+		<oneTo4>2</oneTo4>
+		<oneTo5>2</oneTo5>
+		<oneTo6>2</oneTo6>
+		<oneTo7>1</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC22</cardID>
+		<oneTo2>2</oneTo2>
+		<oneTo3>2</oneTo3>
+		<oneTo4>3</oneTo4>
+		<oneTo5>1</oneTo5>
+		<oneTo6>2</oneTo6>
+		<oneTo7>2</oneTo7>
+	</card>
+
+	<card>
+		<cardID>MC23</cardID>
+		<oneTo2>3</oneTo2>
+		<oneTo3>3</oneTo3>
+		<oneTo4>2</oneTo4>
+		<oneTo5>2</oneTo5>
+		<oneTo6>2</oneTo6>
+		<oneTo7>2</oneTo7>
+	</card>
+
+</movecards>

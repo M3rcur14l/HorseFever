@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<actioncards>
+
+	<card>
+		<cardID>CC01</cardID>
+		<name>Cranio Mercanti</name>
+		<description>You are the owner of the Stable rated 1:2. Take the Stable Owner card of the corresponding color. You start with 3400 D.</description>
+	</card>
+
+    <card>
+        <cardID>CC02</cardID>
+        <name>Steve McSkull</name>
+        <description>You are the owner of the Stable rated 1:3. Take the Stable Owner card of the corresponding color. You start with 3600 D.</description>
+    </card>
+    
+    <card>
+        <cardID>CC03</cardID>
+        <name>Viktor von Schadel</name>
+        <description>You are the owner of the Stable rated 1:4. Take the Stable Owner card of the corresponding color. You start with 3800 D.</description>
+    </card>
+    
+    <card>
+        <cardID>CC04</cardID>
+        <name>César Cràne</name>
+        <description>You are the owner of the Stable rated 1:5. Take the Stable Owner card of the corresponding color. You start with 4000 D.</description>
+    </card>
+    
+    <card>
+        <cardID>CC05</cardID>
+        <name>Cranéo Cervantes</name>
+        <description>You are the owner of the Stable rated 1:6. Take the Stable Owner card of the corresponding color. You start with 4200 D.</description>
+    </card>
+    
+    <card>
+        <cardID>CC06</cardID>
+        <name>Sigvard Skalle</name>
+        <description>You are the owner of the Stable rated 1:7. Take the Stable Owner card of the corresponding color. You start with 4400 D.</description>
+    </card>
+
+</actioncards>

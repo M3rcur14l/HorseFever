@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<actioncards>
+
+	<card>
+		<cardID>AC01</cardID>
+		<type>POSITIVE</type>
+		<name>Magna Velocitas</name>
+		<description>At the Start of the Race, this Horse moves forward four spaces instead of the number shown on the Movement card</description>
+		<letter>A</letter>
+	</card>
+
+	<card>
+		<cardID>AC02</cardID>
+		<type>POSITIVE</type>
+		<name>Fortuna Benevola</name>
+		<description>At the Start of the Race, this Horse moves forward one space more than the number on the Movement card.</description>
+		<letter>B</letter>
+	</card>
+
+	<card>
+		<cardID>AC03</cardID>
+		<type>POSITIVE</type>
+		<name>Flagellum Fulguris</name>
+		<description>When this Horse Sprints, it moves forward one extra space.</description>
+		<letter>C</letter>
+	</card>
+
+	<card>
+		<cardID>AC04</cardID>
+		<type>POSITIVE</type>
+		<name>Herba Magica</name>
+		<description>When this Horse Sprints, it moves forward two spaces instead of one.</description>
+		<letter>C</letter>
+	</card>
+
+	<card>
+		<cardID>AC05</cardID>
+		<type>POSITIVE</type>
+		<name>In Igni Veritas</name>
+		<description>If this Horse is part of a Photo Finish (tied for position after crossing the Finish Line), it wins the tie even when its odds are lower.</description>
+		<letter>E</letter>
+	</card>
+
+	<card>
+		<cardID>AC06</cardID>
+		<type>POSITIVE</type>
+		<name>Fustis et Radix</name>
+		<description>When this Horse crosses the Finish Line, it moves forward two additional spaces (before rolling the Sprint Dice)</description>
+		<letter>F</letter>
+	</card>
+
+	<card>
+		<cardID>AC07</cardID>
+		<type>POSITIVE</type>
+		<name>Vigor Ferreum</name>
+		<description>If this Horse is in last place when a Movement card is turned over (or it is tied for last), it moves forward four spaces instead of the number shown on the Movement card. Note: This ability does NOT apply at the Start of the Race.</description>
+		<letter>G</letter>
+	</card>
+
+	<card>
+		<cardID>AC08</cardID>
+		<type>NEGATIVE</type>
+		<name>Globus Obscurus</name>
+		<description>At the Start of the Race, the Horse stays still instead of moving forward the number of spaces shown on the Movement card.</description>
+		<letter>A</letter>
+	</card>
+
+	<card>
+		<cardID>AC09</cardID>
+		<type>NEGATIVE</type>
+		<name>Aqua Putrida</name>
+		<description>At the Start of the Race, this Horse moves forward one space less than the number indicated on the Movement card. Important: a Horse can never move backwards.</description>
+		<letter>B</letter>
+	</card>
+
+	<card>
+		<cardID>AC10</cardID>
+		<type>NEGATIVE</type>
+		<name>Serum Maleficum</name>
+		<description>If this Horse is rolled on the Sprint Dice it does not move forward any squares and instead stays still (the Horse is not allowed to Sprint).</description>
+		<letter>C</letter>
+	</card>
+
+	<card>
+		<cardID>AC11</cardID>
+		<type>NEGATIVE</type>
+		<name>Venenum Veneficum</name>
+		<description>When this Horse Sprints, it moves forward one space less than normal.</description>
+		<letter>C</letter>
+	</card>
+	
+	<card>
+        <cardID>AC12</cardID>
+        <type>NEGATIVE</type>
+        <name>Mala Tempora</name>
+        <description>If this Horse is part of a Photo Finish (tied for position after crossing the Finish Line), it loses the tie even when its odds are higher.</description>
+        <letter>E</letter>
+    </card>
+
+	<card>
+		<cardID>AC13</cardID>
+		<type>NEGATIVE</type>
+		<name>XIII</name>
+		<description>When this Horse reaches the Finish Line, it stops immediately (any other movement is lost) but does not ignore any Sprint Dice results.</description>
+		<letter>F</letter>
+	</card>
+
+	<card>
+		<cardID>AC14</cardID>
+		<type>NEGATIVE</type>
+		<name>Felix Infernalis</name>
+		<description>If this Horse is in first place when a Movement card is turned over (or it is tied for first), it stays still instead of moving forward the number of spaces shown on the Movement card. Note: This ability does NOT apply at the Start of the Race.</description>
+		<letter>G</letter>
+	</card>
+
+	<card>
+		<cardID>AC15</cardID>
+		<type>SPECIAL</type>
+		<name>Alfio Allibratore</name>
+		<description>When this card is revealed, the odds for the Stable go up two levels (e.g., if it was rated 1:4, it increases to 1:2).</description>
+		<letter>H</letter>
+	</card>
+
+	<card>
+		<cardID>AC16</cardID>
+		<type>SPECIAL</type>
+		<name>Fritz Finden</name>
+		<description>All negative Action cards played on this Horse are discarded. They have no effect on this Race.</description>
+		<letter>L</letter>
+	</card>
+
+    <card>
+        <cardID>AC17</cardID>
+        <type>SPECIAL</type>
+        <name>Pecunia Non Olet</name>
+        <description>All players that have bet on this Horse, including those who lost their stakes, gain 400 D from the Bank during the Payoff step.</description>
+        <letter>N</letter>
+    </card>
+
+    <card>
+        <cardID>AC18</cardID>
+        <type>SPECIAL</type>
+        <name>Boss</name>
+        <description>Any successful Bets on this Horse award an extra VP (i.e., 4 for a Bet to Win and 2 for a Bet to Show).</description>
+        <letter>P</letter>
+    </card>
+
+	<card>
+		<cardID>AC19</cardID>
+		<type>SPECIAL</type>
+		<name>Steven Sting</name>
+		<description>When this card is revealed, the odds for the Stable go down by two levels (e.g., if it was rated 1:2, it goes down to 1:4).</description>
+		<letter>I</letter>
+	</card>
+
+	<card>
+		<cardID>AC20</cardID>
+		<type>SPECIAL</type>
+		<name>Rochelle Recherche</name>
+		<description>All positive Action cards played on this Horse are discarded. They have no effect on this Race.</description>
+		<letter>M</letter>
+	</card>
+
+	<card>
+		<cardID>AC21</cardID>
+		<type>SPECIAL</type>
+		<name>Armand Amende</name>
+		<description>All players that have bet on this Horse, including those who lost their stakes, have to pay the Bank 400 D during the Payoff step.</description>
+		<letter>O</letter>
+	</card>
+
+	<card>
+		<cardID>AC22</cardID>
+		<type>SPECIAL</type>
+		<name>Boss!!</name>
+		<description>Any successful Bets on this Horse award one less VP (i.e., 2 for a Bet to Win and 0 for a Bet to Show).</description>
+		<letter>Q</letter>
+	</card>
+
+</actioncards>
